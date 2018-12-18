@@ -1,7 +1,7 @@
 # Machine learning
 This course was taught by [Professor Kondor](https://galton.uchicago.edu/faculty/kondor.shtml) at University of Chicago in Spring 2018.
 
-##Topics
+## Topics
  * Clustering
  * Dimensionality reduction
  * Manifold learning
